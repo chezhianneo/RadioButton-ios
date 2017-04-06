@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0"
   s.summary      = "Lightweight RadioButton class for iOS."
   s.homepage     = "https://github.com/onegray/RadioButton-ios"
-  s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Sergey Nikitenko" => "s.nikitenko@me.com" }
   s.source       = { :git => "https://github.com/onegray/RadioButton-ios.git", :tag => "v1.0" }
   s.platform     = :ios, '7.0'
