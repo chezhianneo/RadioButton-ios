@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/onegray/RadioButton-ios"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Sergey Nikitenko" => "s.nikitenko@me.com" }
-  s.source       = { :git => "https://github.com/chezhianneo/RadioButton-ios.git", :tag => "v1.0" }
+  s.source       = { :git => "https://github.com/onegray/RadioButton-ios.git", :tag => "v1.0" }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
   s.source_files = 'RadioButton/*.{h,m}'
